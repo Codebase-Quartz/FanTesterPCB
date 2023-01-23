@@ -1,2 +1,2 @@
 # FanTesterPCB
- PCB for testing PWM fans,
+ PCB for testing PWM fans.
